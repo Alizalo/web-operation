@@ -54,6 +54,8 @@
 
 
 ### 9. 流量与监控
+- 在bing站长平台查询流量
+![](https://gitee.com/lowingyi/web/raw/master/images/%E6%B5%81%E9%87%8F.png)
     - 通过wordfence和site24*7进行安全监控
 ![](https://gitee.com/lowingyi/web/raw/master/images/Wordfence1.png)
 ![](https://gitee.com/lowingyi/web/raw/master/images/Wordfence.jpg)  
