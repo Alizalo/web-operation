@@ -70,13 +70,7 @@
 ### 11. 运营报告Github地址
 
 
-### 12. 用户测评
- - 把网站链接发给好友后，对方的评价是觉得文章的两种内容不够有区分度
- ![](https://gitee.com/lowingyi/web/raw/master/images/%E7%94%A8%E6%88%B7%E6%B5%8B%E8%AF%84.jpg)
- - 修改如下
- ![](https://gitee.com/lowingyi/web/raw/master/images/%E6%9B%B4%E6%94%B9.png)
-
-### 13. 运营结果（点击量）
+### 12. 运营结果（点击量）
   - 通过在百度站长平台，bing站长平台提交网址登尝试，网站的浏览量如下
 
 ![](https://gitee.com/lowingyi/web/raw/master/images/%E6%B5%8F%E8%A7%88%E9%87%8F.png) 
